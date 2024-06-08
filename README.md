@@ -1,1 +1,0 @@
-# interior_design
