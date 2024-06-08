@@ -1,0 +1,24 @@
+footer{
+    background-color: #d4d2d2ec;
+    font-family: 'mulish';
+    font-size: 1.2rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid #b3b2b2ec;
+}
+
+.footer_section{
+   text-align: center;
+}
+
+.fhead{
+    font-family: "Playfair Display";
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.flinks:hover{
+    cursor: pointer;
+    border-bottom: 1px solid black;
+}

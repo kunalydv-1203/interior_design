@@ -1,0 +1,119 @@
+.home_body{
+    background-color: #ebeaea;
+    font-family: 'mulish';
+}
+
+.section_one {
+    display: flex;
+}
+
+.section_one img{
+    height: 88vh;
+    width: 50%;
+    border-right: 3px solid #b3b2b2ec;
+    border-bottom: 3px solid #b3b2b2ec;
+}
+
+.card{
+    height: 87.8vh;
+    width: 50%;
+    font-family: 'mulish';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 3px solid #b3b2b2ec;
+    border-bottom: 5px solid #b3b2b2ec;
+}
+
+.card_text{
+    height: 70vh;
+    width:  70%;
+    text-align: center;
+ 
+}
+
+#head_one{
+    font-size: 4rem;
+    color: #3c3c3cdb;
+}
+
+#para_one{
+    font-size: 2.5rem;
+    color: #575757db;
+    font-weight: 500;
+}
+
+#btn_one{
+    padding: 10px;
+    font-size: 1.4rem;
+    font-weight: 800;
+    background-color: #3c3c3cdb;
+    color: #ebeaea;
+    font-family: 'mulish';
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+#btn_one:hover{
+    background-color: #ebeaea;
+    color: #3c3c3cdb;
+}
+
+.heading{
+    text-align: center;
+    color: #3c3c3cdb;
+    font-size: 3rem;
+     font-family: "Playfair Display";
+}
+
+.section_two{
+    border-bottom: 2px solid #3c3c3cdb;
+}
+
+.section_two img{
+    height: 450px;
+    width: 422px;
+    border: 2px solid #525252fb;
+
+}
+
+.fav_project{
+    display: flex;
+    justify-content:space-around;
+}
+
+.fab_design{
+    height: auto;
+    width: 424.5px;
+}
+
+.prj_heading{
+    text-align: center;
+    color: #3c3c3cdb;
+    font-size: 2rem;
+}
+
+.prj_para{
+    color: #575757db;
+    font-size: 1.2rem;
+}
+
+.section_three{
+    padding-bottom: 10px;
+    
+}
+
+.esn_para{
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+    color: #575757db;
+    font-size: 1.2rem;
+}
+
+#para_two{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #575757db;
+    font-weight: 500;
+}

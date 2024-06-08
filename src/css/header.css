@@ -1,0 +1,54 @@
+/* Playfair Display font for Headings */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* Mulish font for body text */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d4d2d2ec;
+    height: 10vh;
+    font-family: "Playfair Display";
+    border-bottom: 5px solid #b3b2b2ec;
+}
+.logo{
+   width: 30%;
+    display: flex;  
+    margin-left: 10px;
+}
+
+#logo_name{
+    height: 5vh;
+    font-size: 30px;
+    padding-bottom: 4px;
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+}
+
+.options{
+    width:45%;
+    height: 10vh;
+}
+
+.options ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 5vh;
+}
+
+.options ul li{
+   list-style: none;
+   padding: 0rem 1.5rem;
+   height: 15%;
+   cursor: pointer;
+}
+
+.options ul li:hover{
+    font-weight:800 ;
+    padding: 0rem 1.32rem;
+    height: 15%;
+    border-bottom: 2px solid black;
+}

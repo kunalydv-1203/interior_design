@@ -1,0 +1,111 @@
+.about_body{
+    background-color: #ebeaea;
+    font-family: 'mulish';
+}
+
+.section_five{
+    height: 76vh;
+    background-image: url('http://localhost:3000/10.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt{
+    height: 75%;
+    width: 80%;
+    margin-bottom:1.2rem;
+}
+
+#head_three{
+    text-align: center;
+    color: #3b3a3adb;
+    font-size: 4.5rem;
+     font-family: "Playfair Display";
+}
+
+#para_four{
+    width: 90%;
+    text-align: center;
+    color: #434242db;
+    font-size: 2.4rem;
+    margin-left: 3rem;
+}
+
+#btn_three{
+    padding: 10px;
+    font-size: 1.4rem;
+    font-weight: 800;
+    background-color: #3c3c3cdb;
+    color: #ebeaea;
+    font-family: 'mulish';
+    cursor: pointer;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    margin-left: 35.8rem;
+}
+
+#btn_three:hover{
+    background-color: #ebeaea;
+    color: #3c3c3cdb;
+}
+
+#para_five{
+    width: 85%;
+    text-align: center;
+    color: #434242db;
+    font-size: 2.4rem;
+    margin-left: 8.5rem;
+
+}
+
+.team_card{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.profile_card{
+    text-align: center;
+    height: 50vh;
+    width: 25%;
+    padding: 10px;
+}
+
+.profile_card img{
+    border-radius: 50%;
+    border: 2px solid  #535353eb;
+}
+
+.prf_name{
+    font-size: 1.5rem;
+    color: #282727da;
+   
+}
+
+.prf_post{
+   font-size: 1.2rem;
+   color: #808080fe;
+}
+
+#prf_exp{
+    padding: 0px 15px;
+    font-size: 1.2rem;
+    color: #474545fe;
+
+}
+
+
+.skills{
+    text-align: center;
+    height: 45vh;
+    width: 25%;
+    padding: 2rem;
+
+}
+
+.skills img{
+    height: 300px;
+    border: 2px solid  #535353eb;
+}
